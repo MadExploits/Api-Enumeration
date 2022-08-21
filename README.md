@@ -6,7 +6,7 @@ Api Enumeration Tools Using Python
 python madpi.py -d http://target.com -w common_paths.txt
 ```
 
-// Using Default Wordlists to check common paths
+Using Default Wordlists to check common paths
 
 ```
 python madpi.py -d http://target.com
